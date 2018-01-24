@@ -1,6 +1,6 @@
 language.code=ru-RU
 language=Russian
-staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000100=Why am I not watching over the ^c:1486b0;tavern^c:pop; you ask?
-staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000200=It seems some hooligan went and tore part of it down...
-staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000300=So I'm taking some well deserved time off!
-staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000400=I'll consider getting back to work once it's repaired.
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000100=Ты спрашиваешь, почему я не наблюдаю за ^c:1486b0;tavern^c:pop;?
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000200=Похоже, какой-то хулиган пришел и сломал это.
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000300=Возьму-ка я немного заслуженного отдыха!
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000400=Вернусь к работе сразу после ремонта.
