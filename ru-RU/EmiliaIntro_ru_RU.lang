@@ -1,5 +1,5 @@
 language.code=ru-RU
 language=Russian
-staxel.village.dialogue.intro.Emilia.line:10000100=Hi hi!
-staxel.village.dialogue.intro.Emilia.line:10000200=I don't think we've met yet!
-staxel.village.dialogue.intro.Emilia.line:10000300=I'm ^c:1486b0;{0-name}^c:pop;! I hope we get along well!
+staxel.village.dialogue.intro.Emilia.line:10000100=Привет-привет!
+staxel.village.dialogue.intro.Emilia.line:10000200=Я не думаю, что мы виделись прежде!
+staxel.village.dialogue.intro.Emilia.line:10000300=Я ^c:1486b0;{0-name}^c:pop;! Я надеюсь, мы поладим!
